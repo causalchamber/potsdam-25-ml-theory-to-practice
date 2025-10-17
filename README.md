@@ -1,4 +1,4 @@
-# From ML Theory to Practice - Exercise Repository
+# From ML Theory to Practice - Uni Potsdam 2025
 
 This is the exercise repository for the course "From ML Theory to Practice", being taught at the Universität Potsdam in the fall semester of 2025.
 
