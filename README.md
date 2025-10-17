@@ -88,9 +88,9 @@ We will populate this section as the course progresses. If you have any question
 
 Dates are DD.MM.YYYY. Click on `>>>` to see the notebook and additional instructions for the project.
 
-| Project                                                                      | Posted     | Due Date   |
-|------------------------------------------------------------------------------|------------|------------|
-| [>>>](project_11/) Project 1.1 Understanding Linear Models on Synthetic Data | 20.10.2025 | 27.10.2025 |
+| Project                                                                      | Posted     | Due Date            |
+|------------------------------------------------------------------------------|------------|---------------------|
+| [>>>](project_11/) Project 1.1 Understanding Linear Models on Synthetic Data | 20.10.2025 | 27.10.2025 at 12:00 |
 
 ## License
 
