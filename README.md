@@ -1,5 +1,9 @@
 # From ML Theory to Practice - Uni Potsdam 2025
 
+[![License: CC-BY 4.0](https://img.shields.io/static/v1.svg?logo=creativecommons&logoColor=white&label=License&message=CC-BY%204.0&color=yellow)](https://creativecommons.org/licenses/by/4.0/)
+
+![The Causal Chambers: (left) the wind tunnel, and (right) the light tunnel with the front panel removed to show its interior.](https://causalchamber.s3.eu-central-1.amazonaws.com/downloadables/the_chambers.jpg)
+
 This is the exercise repository for the course "From ML Theory to Practice", being taught at the Universität Potsdam in the fall semester of 2025.
 
 We will use this repository to post the exercises and receive your solutions.
@@ -8,25 +12,23 @@ We assume you have a basic understanding of git. If you don't, look at this [qui
 
 ## Setup
 
-1. **Open your terminal**
+1. **Clone this repository:**
 
-2. **Clone this repository:**
+    Open your terminal, and type
    ```bash
    git clone git@github.com:uni-potsdam/ml-theory-to-practice.git
    ```
 
-3. **Enter the repository and create a new branch for yourself using your university username:**
+2. **Create a new branch for yourself using your university username:**
+
+    For example, if your username is `jdoe@uni-potsdam.de`, use:
    ```bash
    cd ml-theory-to-practice
-   git checkout -b student/<your-potsdam-username>
-   ```
-   For example, if your username is `jdoe@uni-potsdam.de`, use:
-   ```bash
    git checkout -b student/jdoe
    ```
 
 4. **Create a virtual environment to hold the Python dependencies for the course:**
-   
+
    First, make sure you have virtualenv installed:
    ```bash
    pip install virtualenv
@@ -79,13 +81,11 @@ We assume you have a basic understanding of git. If you don't, look at this [qui
 
 ## Schedule
 
+Dates are DD.MM.YYYY.
+
 | Project | Posted | Due Date | Page |
 |---------|--------|----------|------|
-| Exercise 1: Linear Regression | TBD | TBD | TBD |
-| Exercise 2: Classification | TBD | TBD | TBD |
-| Exercise 3: Neural Networks | TBD | TBD | TBD |
-| Exercise 4: Deep Learning | TBD | TBD | TBD |
-| Exercise 5: Final Project | TBD | TBD | TBD |
+| Project 1.1 Understanding Linear Models on Synthetic Data | 20.10.2025 | 27.10.2025 | [>>>](project_11/) |
 
 ## License
 
