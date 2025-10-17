@@ -92,10 +92,11 @@ When a new exercise is available, we will post it to the Schedule table above. Y
 
 4. To submit your exercise, create a final commit with message "SUBMISSION: project xxx". Make sure to push your changes:
    ```bash
-   git commit -m "SUBMISSION: Exercise 1"
+   git commit -m "SUBMISSION: Project X.Y"
    git push origin student/<username>
    ```
    If you add additional changes, just add them and redo the commit. We will just look at your last commit _before_ the deadline.
+   
    **Important:** If you don't push your changes, we won't see your submission!
 
 ## FAQ
