@@ -16,11 +16,11 @@ We assume you have a basic understanding of git. If you don't, look at this [qui
 | Project                                                                   | Posted     | Due Date            |
 |---------------------------------------------------------------------------|------------|---------------------|
 | [Project 1.1: Understanding Linear Models on Synthetic Data](project_11/) | 20.10.2025 | 27.10.2025 at 12:00 |
-| [Project 1.2: Limitations of Linear Models on Real Data]()                | ---        | ---                 |
-| [Project 2: Causality, RCTs and two-sample testing]()                     | ---        | ---                 |
-| [Project 3: Conformal Prediction]()                                       | ---        | ---                 |
-| [Project 4: Generative Modelling]()                                       | ---        | ---                 |
-| [Project 5: Controlling a real system: RL and Sim2Real]()                 | ---        | ---                 |
+| Project 1.2: Limitations of Linear Models on Real Data                | ---        | ---                 |
+| Project 2: Causality, RCTs and two-sample testing                     | ---        | ---                 |
+| Project 3: Conformal Prediction                                       | ---        | ---                 |
+| Project 4: Generative Modelling                                       | ---        | ---                 |
+| Project 5: Controlling a real system: RL and Sim2Real                 | ---        | ---                 |
 
 
 ## Setup
