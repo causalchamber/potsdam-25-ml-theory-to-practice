@@ -4,7 +4,7 @@
 
 ![The Causal Chambers: (left) the wind tunnel, and (right) the light tunnel with the front panel removed to show its interior.](https://causalchamber.s3.eu-central-1.amazonaws.com/downloadables/the_chambers.jpg)
 
-This is the exercise repository for the course "From ML Theory to Practice", being taught at the Universität Potsdam in the fall semester of 2025. The course has been designed by Juan L. Gamella and Simon Bing.
+This is the exercise repository for the course "From ML Theory to Practice", imparted at the Universität Potsdam in the fall semester of 2025. The course has been designed by Juan L. Gamella and Simon Bing.
 
 We will use this repository to post the exercises and receive your solutions.
 
@@ -64,9 +64,9 @@ We assume you have a basic understanding of git. If you don't, look at this [qui
    git pull origin main
    ```
 
-2. If you need to install additional Python packages, we will tell you.
+2. If you need to install additional Python packages for a particular project, we will tell you.
 
-3. You can begin working inside your `student/<username>` branch, committing your changes as you go:
+3. You can now begin working inside your `student/<username>` branch, committing your changes as you go:
    ```bash
    git add .
    git commit -m "Your commit message"
@@ -79,6 +79,10 @@ We assume you have a basic understanding of git. If you don't, look at this [qui
    ```
    If you add additional changes, just add them and redo the commit. We will just look at your last commit _before_ the deadline.
    **Important:** If you don't push your changes, we won't see your submission!
+
+## FAQ
+
+We will populate this section as the course progresses. If you have any questions, please reach out to Simon Bing.
 
 ## Schedule
 
