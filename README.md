@@ -32,7 +32,7 @@ Before working on the notebooks, you will need to set up your git and Python env
 
     Open your terminal, and type
    ```bash
-   git clone git@github.com:uni-potsdam/ml-theory-to-practice.git
+   git clone git@github.com:causalchamber/potsdam-25-ml-theory-to-practice
    ```
 
 2. **Create a new branch for yourself using your university username**
