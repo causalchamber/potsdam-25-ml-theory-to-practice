@@ -10,7 +10,7 @@ Please complete the notebook and submit it before the due date. You can find the
 
 ## Learning objectives
 
-The goals of this first project are to (1) get you familiarized with the course setup, and (2), explore the different properties and assumptions of linear models in a controlled environment where you have full control over the (synthetic) data generating process. In particular, you will
+The goals of this first project are (1) to  get you familiarized with the course setup, and (2) to understand the properties and assumptions of linear models in a controlled environment where you have full control over the (synthetic) data generating process. In particular, you will
 
 1. Generate synthetic data following the basic assumptions of the basic linear model with Gaussian homoscedastic errors.
 2. Fit a linear model using ordinary least squares (OLS).
