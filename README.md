@@ -6,12 +6,13 @@
 
 This is the exercise repository for the course "From ML Theory to Practice", imparted at the Universität Potsdam in the fall semester of 2025. The course has been designed by Juan L. Gamella and Simon Bing.
 
-We will use this repository to post the exercises and receive your solutions.
+We will use this repository to post the exercises and receive your solutions. To do this, please see [setup](#setup) and [workflow](#workflow) below.
 
 We assume you have a basic understanding of git. If you don't, look at this [quick guide](https://rogerdudler.github.io/git-guide/) and ask us for help!
 
 ## Schedule
 
+We will update the table as the course progresses. Click on a project's name to see the notebook and any additional instructions.
 
 | Project                                                                   | Posted     | Due Date            |
 |---------------------------------------------------------------------------|:------------:|:---------------------:|
