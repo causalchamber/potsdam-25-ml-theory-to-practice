@@ -10,7 +10,17 @@ We will use this repository to post the exercises and receive your solutions.
 
 We assume you have a basic understanding of git. If you don't, look at this [quick guide](https://rogerdudler.github.io/git-guide/) and ask us for help!
 
+## Schedule
+
+Dates are DD.MM.YYYY. Click on `>>>` to see the notebook and additional instructions for the project.
+
+| Project                                                                      | Posted     | Due Date            |
+|------------------------------------------------------------------------------|------------|---------------------|
+| [>>>](project_11/) Project 1.1 Understanding Linear Models on Synthetic Data | 20.10.2025 | 27.10.2025 at 12:00 |
+
 ## Setup
+
+Before working on the notebooks, you will need to set up your git and Python environments.
 
 1. **Clone this repository**
 
@@ -59,7 +69,9 @@ We assume you have a basic understanding of git. If you don't, look at this [qui
 
 ## Workflow
 
-1. For each exercise, we will post the corresponding notebook in the schedule below. You can then pull the repository to get the notebook and other files:
+When a new exercise is available, we will post it to the Schedule table above. You can then work on each exercise as follows:
+
+1. Pull the repository to get the notebook and other files:
    ```bash
    git pull origin main
    ```
@@ -84,13 +96,6 @@ We assume you have a basic understanding of git. If you don't, look at this [qui
 
 We will populate this section as the course progresses. If you have any questions, please reach out to Simon Bing.
 
-## Schedule
-
-Dates are DD.MM.YYYY. Click on `>>>` to see the notebook and additional instructions for the project.
-
-| Project                                                                      | Posted     | Due Date            |
-|------------------------------------------------------------------------------|------------|---------------------|
-| [>>>](project_11/) Project 1.1 Understanding Linear Models on Synthetic Data | 20.10.2025 | 27.10.2025 at 12:00 |
 
 ## License
 
