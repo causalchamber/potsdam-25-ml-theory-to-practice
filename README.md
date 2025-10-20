@@ -35,15 +35,7 @@ Before working on the notebooks, you will need to set up your git and Python env
    git clone git@github.com:causalchamber/potsdam-25-ml-theory-to-practice
    ```
 
-2. **Create a new branch for yourself using your university username**
-
-    For example, if your username is `jdoe@uni-potsdam.de`, use:
-   ```bash
-   cd ml-theory-to-practice
-   git checkout -b student/jdoe
-   ```
-
-4. **Create a virtual environment to hold the Python dependencies for the course**
+3. **Create a virtual environment to hold the Python dependencies for the course**
 
    First, make sure you have virtualenv installed:
    ```bash
@@ -52,10 +44,11 @@ Before working on the notebooks, you will need to set up your git and Python env
    
    Create a new virtual environment:
    ```bash
+   cd potsdam-25-ml-theory-to-practice
    python -m virtualenv venv
    ```
 
-5. **Install the basic dependencies**
+4. **Install the basic dependencies**
    
    Activate the virtual environment:
    ```bash
@@ -84,13 +77,20 @@ When a new exercise is available, we will post it to the Schedule table above. Y
 
 2. If you need to install additional Python packages for a particular project, we will tell you.
 
-3. You can now begin working inside your `student/<username>` branch, committing your changes as you go:
+3. Create a new branch for yourself using your university username
+
+    For example, if your username is `jdoe@uni-potsdam.de`, use:
+   ```bash
+   git checkout -b student/jdoe
+   ```
+
+4. You can now begin working inside your `student/<username>` branch, committing your changes as you go:
    ```bash
    git add .
    git commit -m "Your commit message"
    ```
 
-4. To submit your exercise, create a final commit with message "SUBMISSION: project xxx". Make sure to push your changes:
+5. To submit your exercise, create a final commit with message "SUBMISSION: project xxx". Make sure to push your changes:
    ```bash
    git commit -m "SUBMISSION: Project X.Y"
    git push origin student/<username>
