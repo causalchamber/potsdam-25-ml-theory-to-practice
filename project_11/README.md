@@ -4,7 +4,7 @@
 
 > Due date: 27.10.2025 at 12:00
 
-> Jupyter notebook: [project_11_linear_models_synthetic.ipynb]()
+> Jupyter notebook: [project_11_linear_models_synthetic.ipynb](project_11_linear_models_synthetic.ipynb)
 
 Please complete the notebook and submit it before the due date. You can find the submission instructions under the [Workflow](../#workflow) section of the main course page.
 
