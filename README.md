@@ -15,13 +15,14 @@ We assume you have a basic understanding of git. If you don't, look at this [qui
 We will update the table as the course progresses. Click on a project's name to see the notebook and any additional instructions.
 
 | Project                                                                   | Posted     | Due Date            |
-|---------------------------------------------------------------------------|:------------:|:---------------------:|
+|---------------------------------------------------------------------------|:----------:|:-------------------:|
 | [Project 1.1: Understanding Linear Models on Synthetic Data](project_11/) | 20.10.2025 | 27.10.2025 at 12:00 |
-| Project 1.2: Limitations of Linear Models on Real Data                | tbd        | tbd                 |
-| Project 2: Causality, RCTs and two-sample testing                     | tbd        | tbd                 |
-| Project 3: Conformal Prediction                                       | tbd        | tbd                 |
-| Project 4: Generative Modelling                                       | tbd        | tbd                 |
-| Project 5: Controlling a real system: RL and Sim2Real                 | tbd        | tbd                 |
+| [Intermezzo: Collecting data from a Causal Chamber™](intermezzo/)         | 27.10.2025 | NA                  |
+| [Project 1.2: Linear models and real-world data](project_12/)             | 27.10.2025 | 3.11.2025  at 12:00 |
+| Project 2: Causality, RCTs and two-sample testing                         | tbd        | tbd                 |
+| Project 3: Conformal Prediction                                           | tbd        | tbd                 |
+| Project 4: Generative Modelling                                           | tbd        | tbd                 |
+| Project 5: Controlling a real system: RL and Sim2Real                     | tbd        | tbd                 |
 
 
 ## Setup
