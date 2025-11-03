@@ -10,11 +10,12 @@ Please complete the notebook and submit it before the due date. You can find the
 
 ## Learning objectives
 
-1. Experience the need for controls and randomized controls in an experiment
-2. Understand the basic setup of hypothesis testing
-3. Understand difference between type-I and type-II errors, and level and power
-5. Learn how to empirically estimate the level and power of a test
-4. Understand how they are affected by violations of the underlying assumptions
+1. Understand the need for controls and randomized controls in an experiment
+2. Set up a basic hypothesis testing problem
+3. Explain the difference between type-I and type-II errors, and level and power
+5. Empirically estimate the level and power of a test
+4. Explain how the above are affected by violations of the underlying assumptions
+5. Understand the issues with early-stopping / p-value peeking
 
 ## Additional Python dependencies
 
