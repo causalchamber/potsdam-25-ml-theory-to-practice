@@ -20,10 +20,9 @@ We will update the table as the course progresses. Click on a project's name to 
 | [Intermezzo: Collecting data from a Causal Chamber™](intermezzo/)         | 27.10.2025 | NA                  |
 | [Project 1.2: Linear models and real-world data](project_12/)             | 27.10.2025 | 3.11.2025  at 12:00 |
 | [Project 2: Causality, RCTs and two-sample testing](project_2/)           | 3.11.2025  | 10.11.2025 at 12:00 |
-| Project 3: Classifier Two-Sample Tests                                    | tbd        | tbd                 |
-| Project 4: Conformal Prediction                                           | tbd        | tbd                 |
-| Project 5: Generative Modelling                                           | tbd        | tbd                 |
-| Project 6: Controlling a real system: RL and Sim2Real                     | tbd        | tbd                 |
+| [Project 3: Classifier Two-Sample Tests](project_3/)                      | 17.11.2025 | 1.12.2025 at 12:00  |
+| Project 4: Generative Modelling                                           | tbd        | tbd                 |
+| Project 5: RL & control on a real system                                  | tbd        | tbd                 |
 
 
 ## Setup
