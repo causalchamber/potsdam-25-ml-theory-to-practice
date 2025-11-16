@@ -2,7 +2,7 @@
 
 > Posted on: 17.11.2025
 
-> Due date: 24.11.2025 at 12:00
+> Due date: 1.12.2025 at 12:00
 
 > Jupyter notebook: [project_3_c2st.ipynb](project_3_c2st.ipynb)
 
