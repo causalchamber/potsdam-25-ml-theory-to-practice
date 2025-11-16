@@ -1,4 +1,4 @@
-# Project 1.2: Linear models and real-world data
+# Project 2: Causality, RCTs and two-sample testing
 
 > Posted on: 3.11.2025
 
